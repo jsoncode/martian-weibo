@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/static/js/main.js",
+    "static/media/ant.svg": "/static/media/ant.1b287f4b7ba22d14907add3428e96def.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/js/main.js"
+  ]
+}
